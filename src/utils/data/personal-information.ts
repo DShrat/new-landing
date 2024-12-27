@@ -14,13 +14,13 @@ export const skills = [
 export const projects = [
     {
         title: "Klik Fauna",
-        description: "Built a front-end marketplace platform with Vue, css, and figma. Implemented API, responsive web and docker for deployment",
+        description: "Built a front-end marketplace platform with Vue, css, and figma. Implement Rest API, responsive web and docker for deployment",
         tech: ["Vue.js", "CSS", "JavaScript", "Docker", "Linux Server"],
         link: "https://klikfauna.com"
     },
     {
         title: "Hexionlabs",
-        description: "Developed a AI-powered summaries and topic categorization from your YouTube comments. with Supabase and MidTrans",
+        description: "Developed a AI-powered summaries and topic categorization from your YouTube comments. with Supabase for auth and MidTrans for payment",
         tech: ["React", "Next.js", "TypeScript","TailwindCSS", "PM2", "Docker", "Linux Server"],
         link: "https://hexionlabs.com"
     },
